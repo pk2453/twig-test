@@ -1,0 +1,14 @@
+{
+  "name": "Twig-test",
+  "version": "1.0.0",
+  "description": "Twig array test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^26.6.1"
+  },
+  "author": "Pankaj Khare"
+}
